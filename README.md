@@ -1,7 +1,7 @@
 # Login React
 Usig Redux, Redux-Saga, Reduxsauce, Styled-Components, React-Router-DOM
 
-#Run
+## Run
 1. Clone this project
 2. Extract the project and go through the project folder in your terminal
 3. Install json-server: In your terminal type "npm i -g json-server" and press enter
