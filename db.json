@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "hnrq.assuncao@gmail.com",
+      "password": "123456",
+      "token": "testToken"
+    }
+  ]
+}

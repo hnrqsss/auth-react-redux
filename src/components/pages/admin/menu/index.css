@@ -1,0 +1,16 @@
+.main-menu {
+  background: #3f51b5;
+}
+
+.main-menu a.navbar-brand {
+  color: #FFF;
+}
+
+.main-menu .collapse .navbar-nav .nav-item a {
+  color: #FFF;
+}
+
+.main-menu.navbar-light .navbar-toggler {
+  border-color: transparent;
+  background: #d3e0f5;
+}
